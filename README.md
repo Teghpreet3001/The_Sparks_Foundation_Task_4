@@ -1,4 +1,4 @@
-# The_Sparks_Foundation_Task_3
+# The_Sparks_Foundation_Task_4
 
 ## The Sparks Foundation
 
@@ -6,7 +6,7 @@
 
 ### Author: Teghpreet Singh Mago
 
-### Task 3 : Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+### Task 4 : Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 ### 1. Problem defintion
 
